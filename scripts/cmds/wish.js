@@ -35,7 +35,7 @@ Wishing you a birthday filled with laughter, love, and unforgettable moments.
 
 With all my love and warmest wishes,
 
-Tasbiul Islam Rasin 💖`,
+Muhammad Riyad  💖`,
         event.threadID,
         event.messageID
       );
