@@ -16,8 +16,8 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "authorName": "Iı TASBIUL Iı",
-  "authorFB": "https://www.facebook.com/id.link.niye.muri.khaw",
+  "authorName": "Riyad",
+  "authorFB": "https://www.facebook.com/id.link.niye.muri.khao",
   "API": {
     "DIPTO": "https://www.noobs-api.000.pe/dipto",
     "SAMIR": "https://www.samirxpikachu.run.place",
@@ -30,6 +30,7 @@
   "vipUser": [
     "100083520680035",
     "100018893430564"
+    "100072757140255"
   ],
   "orgDEV": [
     "61559599768817",
@@ -183,6 +184,7 @@
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
 }
+
 
 
 
