@@ -6,7 +6,7 @@ const chatURL = `${baseURL}/jeba`;
 const listURL = `${baseURL}/list?count=true&apikey=rs_jgcrn577-hh4x-358p-9na9-vf`;
 
 const conversationMemory = {};
-const rasin = ["jeba", "bby", "nusu", "bot", "xuna"];
+const rasin = ["jeba", "bby", "nusu", "bot", "xuna", "Riyad"];
 const noContentReplies = [
   "Hae babe bolo 🥹🫶🏻",
   "Hae bolo suntechi 😒",
